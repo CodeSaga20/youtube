@@ -8,7 +8,7 @@
 // })
 
 gsap.from("h4",{
-    y: -50,
+    y: -500,
     opacity:0,
     duration: 1,
     delay:0.4,
